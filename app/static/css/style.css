@@ -1,6 +1,18 @@
 h1, h2{
     font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 50pt;
 }
 body{
-    background-color: aqua;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+p{
+    font-size: 20pt;
+}
+a{
+    font-size: 25pt;
+    color: purple;
 }
